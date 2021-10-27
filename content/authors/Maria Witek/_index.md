@@ -29,7 +29,7 @@ education:
     year: "2013"
   - course: MA in Music Psychology
     institution: University of Sheffield
-    year: "2008"
+    year: "2008 "
 superuser: false
 user_groups:
 - Principal Investigators
